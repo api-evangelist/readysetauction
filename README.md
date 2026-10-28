@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ReadySetAuction is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://readysetauction.com/
+ReadySetAuction provides a cloud‑based auction software platform designed for nonprofit organizations, schools, faith‑based groups, sports teams, and other charitable entities. It supports silent, live, mobile, and online fundraising auctions, offering features such as guest management, RSVP tracking, table assignments, meal selections, and real‑time auction monitoring. The solution aims to streamline auction planning, increase proceeds, and simplify event logistics for a wide range of charitable fundraising activities.
+
+**Areas:** Auction Software · Event Management · Mobile Bidding · Online Auction · Guest Management
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://readysetauction.com/)
+- [Documentation](https://www.readysetauction.com/tour/)
+- [Getting started](https://www.readysetauction.com/tour/)
+- [Pricing](https://www.readysetauction.com/pricing/)
+- [Support](https://www.readysetauction.com/contact/)
+- [Blog](https://www.readysetauction.com/rsablog/)
+- [Terms of service](https://www.readysetauction.com/policies/tos/)
+- [Privacy policy](https://www.readysetauction.com/policies/privacy-security/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/readysetauction/](https://apis.io/providers/readysetauction/).
